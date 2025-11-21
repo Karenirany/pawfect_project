@@ -150,6 +150,6 @@ $username = $is_logged_in ? $_SESSION['username'] : null;
 
     <?php include 'includes/footer.php'; ?>
     <script src="js/script.js"></script>
-    
+    <script src="js/chatbot.js"></script>
 </body>
 </html>
